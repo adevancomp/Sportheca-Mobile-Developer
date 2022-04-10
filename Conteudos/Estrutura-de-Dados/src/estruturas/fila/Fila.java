@@ -19,7 +19,6 @@ public class Fila<T> {
     }
 
     public T first(){
-        //Refatorando o código com while true, por não ser uma boa prática de programação
         if(!this.isEmpty()){
             No<T> aux = this.refNo;
             while(aux.getProximo()!=null){

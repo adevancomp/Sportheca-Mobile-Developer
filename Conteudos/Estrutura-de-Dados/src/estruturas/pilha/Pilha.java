@@ -40,7 +40,6 @@ public class Pilha<T> {
     public String toString() {
         String st = "---  Pilha ---";
         No<T> aux = this.refNo;
-        // Retirando a lógica do instrutor com while True, por não ser uma boa prática de programação.
         if(!this.isEmpty()){
             while(aux!=null){
                 st+="\n["+aux.getConteudo().toString()+"]\n  |\n  o";

@@ -3,7 +3,7 @@ package estruturas.lista.encadeada;
 import notipos.No;
 
 public class Lista<T>{
-    public int size;
+    public Integer size;
     public No<T> entrada;
 
     public Lista(){
@@ -19,7 +19,7 @@ public class Lista<T>{
         return this.entrada==null;
     }
 
-    public int size() {
+    public Integer size() {
         return this.size;
     }
 
@@ -78,7 +78,7 @@ public class Lista<T>{
 
     private void validaIndice(int index){
         if((index>=this.size)||index<0){
-            throw new IndexOutOfBoundsException("O índice "+index+" não existe na lista atual !");
+            throw new IndexOutOfBoundsException("O índice "+index+" não existe na lista atualmente !");
         }
     }
 
