@@ -1,5 +1,7 @@
 ## Estrutura de Dados em Java
 
+## Curso de 10 horas de duração na Digital Innovation One com o professor João Dutra
+
 ## [Curso Oficial](https://github.com/jrdutra/estruturaDeDadosJavaDio)
 
 ## Estruturas Apresentadas pelo autor :
@@ -22,6 +24,6 @@
 
 - [Python](https://github.com/adevan-neves-santos/Universidade-Exercicios-2021/tree/master/Codigos/Algoritmo-e-Estrutura-de-Dados)
 - [C (algortimos de ordenação)](https://github.com/FrancisBFTC/C_Sorting_Algorithms)
-- [C ++ ](https://github.com/vitoria-isabela/EstruturadeDados)
+- [C ++ ](https://github.com/vitoria-isabela/Estruturas-de-Dados)
 
 ### Obrigado a [Digital Innovation One](https://dio.me/sign-up?ref=WDIQVSHDCK) pelo excelente curso !!!
