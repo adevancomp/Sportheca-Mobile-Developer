@@ -48,3 +48,27 @@
 4. Ano de criação e nome
 5. Nome ano de criação e ide
 
+## Interface Map
+
+### [1)](./src/dio/me/estudo/exercicios/Nordeste.java) Dada a população estimada de alguns estados do Nordeste Brasileiro, faca:
+- Estado PE - População = 9.616.621
+- Estado AL - População = 3.351.543
+- Estado CE - População = 9.187.103
+- Estado RN - População = 3.534.265
+
+1. Crie um dicionário e relacione os estados e suas populações
+2. Substitua a população do Estado de RN para 3.534.165
+3. Confira se o estado PB está no dicionário, caso não adicione PB - População 4.039.277
+
+- Exiba todos os estados e suas populações na ordem em que foi informado.
+- Exiba todos os estados e suas populações em ordem alfabética.
+- Exiba o estado com a menor população e sua quantidade.
+- Exiba o estado com a maior população e sua quantidade.
+- Exiba a soma da população desses estados.
+- Exiba a média da população desses estados
+- Remova os estados com a população menor que 4.000.000.
+- Apague o dicionário.
+- Verifique se ele está vazio.
+
+### [Desafio: ](./src/dio/me/estudo/exercicios/LancamentoDeDados.java) Faça um programa que simule o lançamento de dados. Lance o Dados 100 vezes e armazene, depois mostre quantas vezes cada valor foi inserido.
+

@@ -4,19 +4,6 @@ import dio.me.estudo.exercicios.models.LinguagemFavorita;
 
 import java.util.*;
 
-/**
- *
- * Crie uma classe LinguagemFavorita que possue os atributos nome,anoDeCriacao e ide.
- * Em sequida, crie um conjunto com 3 linguagens e faça um programa que ordene esse conjunto por
- *
- * 1. Ordem de Inserçao
- * 2. Ordem Natural (nome)
- * 3. IDE
- * 4. Ano de criação e nome
- * 5. Nome ano de criação e ide
- *
- */
-
 public class Programacao {
     public static void main(String[] args) {
         Set<LinguagemFavorita> linguagens_listas = new LinkedHashSet(){{
