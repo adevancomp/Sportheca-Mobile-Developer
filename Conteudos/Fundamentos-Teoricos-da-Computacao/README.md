@@ -82,4 +82,15 @@
 ![Alter text](resposta-2.png)
 
 
+#### Como você pode executar corretamente o projeto na sua máquina ? É simples. Siga os passos :
+
+1. Baixe e instale o Java (JRE), caso não saiba veja esse [link](https://github.com/adevan-neves-santos)
+2. Baixe o arquivo neste repositório com o nome J_Flap.jar e execute no seu interpretador de comandos o seguinte: 
+
+```bash
+java -jar J_Flap.jar
+```
+
+3. Baixe o arquivo projeto-main.jff e abra o arquivo dentro da interface do JFlap. Realize os casos de teste listados.
+
 #### Obrigado !!!!
