@@ -1,13 +1,23 @@
-## Seja bem vindo aos Desafios do Bootcamp GFT Start Woman
+### Seja bem vindo aos Desafios de Codigo do Bootcamp GFT Start Woman
 
-### Autor : [Adevan Neves Santos](https://www.linkedin.com/in/adevan-neves-santos/)
+### Desafios básicos em Java
 
-#### Sobre o projeto : O Bootcamp GFT Start Woman Java é um programa gratuito direcionado para desenvolvedoras que estão começando a jornada na tecnologia! O programa explora uma trilha completa em Java com cursos, desafios práticos e mentorias exclusivas com experts da multinacional. Como membro da comunidade de Alumini na DIO Campus Expert participei ativamente na divulgação desta oportunidade para minha rede no Linkedin, portanto, mesmo não fazendo parte do púlico alvo decidi fazer o bootcamp para ajudar as pessoas indicadas por mim na Digital Innovation One.
+### [1] Multiplicação Simples
 
-### Desafios
+### [2] Coxinha de Bueno
 
-### Multiplicação Simples
+### [3] Álbum da Copa
 
-#### Você receberá dois valores inteiros. Faça a leitura e em seguida calcule o produto entre estes dois valores. Atribua esta operação à variável PROD, mostrando esta de acordo com a mensagem de saída esperada (exemplo abaixo).
+### [4] Degustação de Vinho
 
-### Entrada
+### Desafios Intermediários em Java
+
+### [1] Média 2
+
+### [2] Esfera
+
+### [3] Polígonos Regulares Simples
+
+### [4] Maior e posição
+
+#### Obrigado [Digital Innovation One](https://dio.me/sign-up?ref=WDIQVSHDCK)!

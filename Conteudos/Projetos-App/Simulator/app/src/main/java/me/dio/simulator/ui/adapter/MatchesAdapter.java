@@ -18,7 +18,7 @@ import me.dio.simulator.ui.DetailActivity;
 
 public class MatchesAdapter extends RecyclerView.Adapter<MatchesAdapter.ViewHolder> {
 
-    private List<Match> matches;
+    private final List<Match> matches;
 
     public MatchesAdapter(List<Match> matches) {
         this.matches = matches;
@@ -49,8 +49,10 @@ public class MatchesAdapter extends RecyclerView.Adapter<MatchesAdapter.ViewHold
         Match match = matches.get(position);
 
         //Adapta dos dados da partida (recuperada da API) para o nosso layout
-        Glide.with(context).load(match.getHomeTeam().getImage()).circleCrop().into(holder.binding.ivHomeTeam);
-        holder.binding.tvHomeTeamName.setText(match.getHomeTeam().getName());
+
+
+        Glide.with(context).load(match.getHomeTeam().getImage()).circleCrop().into(holder.binding.ivHomeTeam);//Adiciona a imagem do time da casa no image view correspondente
+        holder.binding.tvHomeTeamName.setText(match.getHomeTeam().getName());//Adiciona o nome do time no text View Correspondente
         if(match.getHomeTeam().getScore()!=null){
             holder.binding.tvHomeTeamScore.setText(String.valueOf(match.getHomeTeam().getScore()));
         }
@@ -61,11 +63,14 @@ public class MatchesAdapter extends RecyclerView.Adapter<MatchesAdapter.ViewHold
             holder.binding.tvAwayTeamScore.setText(String.valueOf(match.getAwayTeam().getScore()));
         }
         holder.itemView.setOnClickListener(view->{
-            //Navegar entre telas uso intent
+            //Para Navegar entre telas uso intent
             Intent intent = new Intent(context, DetailActivity.class);
             intent.putExtra(DetailActivity.Extras.MATCH,match);
             context.startActivity(intent);
         });
+
+        //Adapta dos dados da partida (recuperada da API) para o nosso layout
+
     }
 
     @Override
