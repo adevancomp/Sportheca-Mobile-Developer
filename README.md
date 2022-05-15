@@ -3,7 +3,7 @@
 #### Autor : [Adevan Neves Santos](https://www.linkedin.com/in/adevan-neves-santos/)
 #### Período : [18.01.2022 -  29.03.2022]
 
-### Sobre o projeto : O Sportheca Mobile Developer é o programa em parceria com a Sportheca no qual os futuros talentos terão a oportunidade de fomentar ainda mais seus conhecimentos em desenvolvimento web.
+### Sobre o projeto : O Sportheca Mobile Developer é o programa em parceria com a Sportheca no qual os futuros talentos terão a oportunidade de fomentar ainda mais seus conhecimentos em desenvolvimento mobile nativo para android.
 
 - Desenvolva aplicações de alto nível com as melhores práticas do mercado;
 
