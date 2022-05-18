@@ -1,8 +1,6 @@
 package dio.me.bank
 fun main(args: Array<String>) {
-    println("Hello World!")
-
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
+    val p1 =Pessoa("Adevan Neves Santos","12221919")
+    println(p1.pessoaInfo())
     println("Program arguments: ${args.joinToString()}")
 }
