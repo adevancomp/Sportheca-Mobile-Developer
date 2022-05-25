@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Imc</string>
+    <string name="title_app">IMC de adevan-neves-santos</string>
+    <string name="hint_peso">Insira peso(kg)</string>
+    <string name="hint_altura">altura (ex 1.78)</string>
+    <string name="txt_botao_calcular">calcular</string>
+    <string name="txt_result">Resultado</string>
 </resources>

@@ -1,18 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".MainActivity">
 
-    <TextView
+    <EditText
+        android:id="@+id/etAltura"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:hint="@string/hint_altura"
+        android:padding="16dp"
+        app:layout_constraintTop_toBottomOf="@id/etPeso"
+        app:layout_constraintStart_toStartOf="@id/etPeso"
+        app:layout_constraintEnd_toEndOf="@id/etPeso"
+        android:layout_marginTop="24dp"
+        tools:visibility="visible"/>
+
+    <EditText
+        android:id="@+id/etPeso"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/hint_peso"
+        android:padding="16dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/btCalcular"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_botao_calcular"
+        android:textSize="32sp"
+        android:backgroundTint="@color/green_happy"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/glBaixo"
+        tools:visibility="visible"
+        />
+
+    <TextView
+        android:id="@+id/tvTituloApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:textColor="@color/red_happy"
+        android:textSize="24sp"
+        android:text="@string/title_app"
+        android:textAlignment="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:visibility="visible"
+        />
+
+    <TextView
+        android:id="@+id/tvResultado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/purple_700"
+        android:textSize="24sp"
+        android:text="@string/txt_result"
+        android:textAlignment="center"
+        app:layout_constraintStart_toStartOf="@id/glBaixo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:visibility="visible"
+        />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/glBaixo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.50" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
