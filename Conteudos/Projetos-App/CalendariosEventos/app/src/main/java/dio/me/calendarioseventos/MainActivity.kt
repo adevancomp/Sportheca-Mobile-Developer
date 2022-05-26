@@ -21,6 +21,10 @@ class MainActivity : AppCompatActivity() {
                 .putExtra(EVENT_LOCATION,"on line")                                                     // adiciona item local com valor online no content
                 .putExtra(CalendarContract.EXTRA_EVENT_BEGIN_TIME,System.currentTimeMillis())                 // adiciona item horário de início do evento
                 .putExtra(CalendarContract.EXTRA_EVENT_END_TIME,System.currentTimeMillis()+(60*60*1000))// adiciona item horário de fim com 1 h a mais do horário de início
+                .putExtra(Attendees.ATTENDEE_NAME,"Geovani Lopes Sampaio")                              // adiciona o nome de um participante no meu evento
+                .putExtra(Attendees.ORGANIZER,"Adevan Neves Santos")                                    // adiciona um organizador ao evento
+                .putExtra(Attendees.ATTENDEE_EMAIL,"aleatorioM@gmail.com")                              // adiciona um e-mail para o evento
+                .putExtra(Reminders.MINUTES,10)                                                         // adiciona um aviso 10 minutos antes de começar o evento
             // realizar o start da intent activity
             startActivity(intent)
         }

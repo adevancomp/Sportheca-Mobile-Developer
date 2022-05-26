@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="dio.me.teste.PessoaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-26T14:04:33" hostname="eng" time="0.038">
+<testsuite name="dio.me.teste.PessoaTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-05-26T15:11:19" hostname="eng" time="0.143">
   <properties/>
-  <testcase name="testantoOutrosArrays()" classname="dio.me.teste.PessoaTest" time="0.038"/>
+  <testcase name="validaCalculoIdadeEmaiorDeIdade()" classname="dio.me.teste.PessoaTest" time="0.125"/>
+  <testcase name="testantoOutrosArrays()" classname="dio.me.teste.PessoaTest" time="0.013"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
