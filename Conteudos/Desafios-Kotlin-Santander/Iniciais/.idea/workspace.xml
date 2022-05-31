@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c282c924-f65a-483f-8bd9-fe2f3187c1f2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_7_0_RC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_7_0_RC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_7_0_RC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_7_0_RC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_7_0_RC.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_junit5_1_6_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consoleApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dio/me/collections/primeiro/ArraysTeste.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dio/me/collections/segundo/TestOutros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dio/me/collections/terceiro/Mutaveis.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dio/me/iniciais/ContagemDeCedulas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dio/me/iniciais/Media1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/dio/me/iniciais/PreenchimentoDeVetorI.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Fundamentos-Aritmeticos-emJava/Fundamentos-Aritmeticos-emJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Fundamentos-Aritmeticos-emJava/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Fundamentos-Aritmeticos-emJava/src/dio/me/aritmetica/AnaliseDeNumeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Fundamentos-Aritmeticos-emJava/src/dio/me/aritmetica/ConsumoMedioDeAutomovel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Fundamentos-Aritmeticos-emJava/src/dio/me/aritmetica/ContagemDeCedulas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Fundamentos-Aritmeticos-emJava/src/dio/me/aritmetica/ExibindoNumerosPares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Fundamentos-Aritmeticos-emJava/src/dio/me/aritmetica/QuantidadeDeNumerosPositivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Introducao-a-Programacao-com-Java/Introducao-a-Programacao-com-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Introducao-a-Programacao-com-Java/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Introducao-a-Programacao-com-Java/src/dio/me/introducao/FolhaDePagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Introducao-a-Programacao-com-Java/src/dio/me/introducao/MultiplicacaoSimples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Introducao-a-Programacao-com-Java/src/dio/me/introducao/VisitaNaFeira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Ordenacao-e-Filtros-em-Java/Ordenacao-e-Filtros-em-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Ordenacao-e-Filtros-em-Java/src/dio/me/ordft/ComprasNoSupermercado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java-Developer-Desafios-de-Codigo/Ordenacao-e-Filtros-em-Java/src/dio/me/ordft/OrdenacaoNumerosParesImpares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projetos-App/Contatos/app/src/main/java/dio/me/contatos/Contact.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projetos-App/Contatos/app/src/main/java/dio/me/contatos/ContactAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projetos-App/Contatos/app/src/main/res/layout/contact_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Projetos-App/RecursosFotos/app/src/main/res/drawable/image.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29tgdciZSI6kqZ9BHsuF2BdLNPc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager" selected="Kotlin.ContagemDeCedulasKt">
+    <configuration name="ContagemDeCedulasKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.me.iniciais.ContagemDeCedulasKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Media1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.me.iniciais.Media1Kt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MutaveisKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.me.collections.terceiro.MutaveisKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PreenchimentoDeVetorIKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.me.iniciais.PreenchimentoDeVetorIKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOutrosKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dio.me.collections.segundo.TestOutrosKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.ContagemDeCedulasKt" />
+        <item itemvalue="Kotlin.PreenchimentoDeVetorIKt" />
+        <item itemvalue="Kotlin.Media1Kt" />
+        <item itemvalue="Kotlin.MutaveisKt" />
+        <item itemvalue="Kotlin.TestOutrosKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c282c924-f65a-483f-8bd9-fe2f3187c1f2" name="Changes" comment="" />
+      <created>1653937887332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653937887332</updated>
+      <workItem from="1653937890315" duration="10684000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
