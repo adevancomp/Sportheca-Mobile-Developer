@@ -15,4 +15,10 @@ Conecte-se com uma comunidade de tecnologia vibrante;
 
 ![Alter text](./img/sportheca-mobile-developer-2022.png)
 
+#### O que você irá encontrar aqui ?
+
+- [Desafios de código em Java](./Conteudos/Java-Developer-Desafios-de-Codigo/README.md)
+- [Desafios de código em Kotlin](./Conteudos/Desafios-Kotlin-Santander/README.md)
+- [Projetos de Aplicativos Android](./Conteudos/Projetos-App/README.md)
+
 #### Aprendizado : No começo de 2022 obtive interesse em desenvolvimento mobile nativo para Android devido ao [Sportheca Mobile Dev Week](https://www.dio.me/dev-week/sportheca/mobile) e também ao [Santander Mobile e Fullstack Dev Week](https://www.dio.me/dev-week/santander/bootcamps),pois utilizamos como projeto base um app de simulação de partidas, afinal 2022 é o ano da Copa. Devido ao conhecimentos de Orientação Objetos na graduação, estava familiarizado com Java e decidir apostar neste universo de apps. O bootcamp é completo, nele os alunos concluíram diversos projetos práticos desde de a "famosa" calculadora de IMC até um app para apresentação de portifólio. Após o curso, a minha confiança na área de desenvolvimento de software aumentou, assim como meu repertório de ferramentas.
