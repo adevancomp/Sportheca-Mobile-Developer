@@ -1,5 +1,8 @@
 package dio.me.ordft;
 
+import java.util.*;
+import java.util.stream.Stream;
+
 /**
  *
  * Desafio : Pedro trabalha sempre até tarde todos os dias, com isso tem pouco
@@ -24,6 +27,22 @@ package dio.me.ordft;
 
 public class ComprasNoSupermercado {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        List<Set<String>> resultadoFinal = new LinkedList<>();
+        int N = sc.nextInt();
+        for (int i = 0; i < N; i++) {
+            Stream<String> linha = Arrays.stream(sc.nextLine().split(" ")).sorted();
+            Set<String> elementos= new LinkedHashSet<>();
+            linha.forEach(elementos::add);
+            resultadoFinal.add(elementos);
+        }
+        //Agora preciso mostrar as informações inseridas
+        for (int i = 0; i < N; i++) {
+            int K = resultadoFinal.get(i).size();
 
+            for (int j = 0; j < K-1; j++) {
+                System.out.print(resultadoFinal.get(i)+" ");
+            }
+        }
     }
 }
