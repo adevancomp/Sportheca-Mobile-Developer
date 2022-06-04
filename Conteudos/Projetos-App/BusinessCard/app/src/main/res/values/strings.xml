@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Business Card</string>
-    <string name="label_business_card">Cartão de visitas</string>
-    <string name="button_insert">Botão de inserir card</string>
-    <string name="label_description_new_card">Novo Cartão</string>
-</resources>
