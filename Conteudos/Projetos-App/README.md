@@ -1,0 +1,1 @@
+### Os projetos Android são apps simples, porém funcionais que utilizam os conceitos aprendidos durante os cursos da DIO. O simulator foi realizado durante o sportheca mobile dev week !
